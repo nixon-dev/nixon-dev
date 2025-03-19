@@ -5,5 +5,5 @@
 
 - 🔭 I’m currently working on [MIS](https://github.com/nixon-dev/mis-project)
 
-- 🌱 I’m currently learning **Laravel, Vue.js**
+- 🌱 I’m currently learning **Laravel**
 
