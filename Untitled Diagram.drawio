@@ -1,17 +1,196 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0" version="26.1.3">
   <diagram name="Page-1" id="VzLzOtzV2zpJQuwfnWmT">
-    <mxGraphModel dx="2333" dy="1074" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1185" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="7instS3jXjHVJ4o3VPC2-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7instS3jXjHVJ4o3VPC2-1" target="7instS3jXjHVJ4o3VPC2-2">
+        <mxCell id="7instS3jXjHVJ4o3VPC2-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7instS3jXjHVJ4o3VPC2-1" target="7instS3jXjHVJ4o3VPC2-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7instS3jXjHVJ4o3VPC2-1" value="Start Here" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="20" width="120" height="60" as="geometry" />
+          <mxGeometry x="30" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7instS3jXjHVJ4o3VPC2-2" value="PURCHASE REQUEST" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="230" y="20" width="180" height="60" as="geometry" />
+        <mxCell id="7instS3jXjHVJ4o3VPC2-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7instS3jXjHVJ4o3VPC2-2" target="7instS3jXjHVJ4o3VPC2-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7instS3jXjHVJ4o3VPC2-2" value="&lt;b&gt;Purchase Request Creation&lt;/b&gt;&lt;div&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(1-2 Days)&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;The end-user submits a Purchase Request (PR) with complete specifications and budget details.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;i&gt;(End-User Unit)&lt;/i&gt;&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="40" width="180" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="7instS3jXjHVJ4o3VPC2-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7instS3jXjHVJ4o3VPC2-9" target="7instS3jXjHVJ4o3VPC2-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7instS3jXjHVJ4o3VPC2-9" value="&lt;div&gt;&lt;b&gt;Approval of PR by Head of End-User Office&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;(1-3 Days)&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;PR is reviewed and approved by the Head of Procuring Entity&amp;nbsp; (HoPE) or designated authority.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;i&gt;(Head of End-User Office)&lt;/i&gt;&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="40" width="200" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="7instS3jXjHVJ4o3VPC2-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7instS3jXjHVJ4o3VPC2-11" target="7instS3jXjHVJ4o3VPC2-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7instS3jXjHVJ4o3VPC2-11" value="&lt;div&gt;&lt;b&gt;Verification of Funds for PR&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;(1-3 Days)&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;The end-user submits the PR to the Procurement Services Unit, which assigns a verification number and forwards it to the Budget Office for funding validations.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;i&gt;(Procurement Services Unit, Budget Office)&lt;/i&gt;&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="780" y="40" width="260" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="7instS3jXjHVJ4o3VPC2-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7instS3jXjHVJ4o3VPC2-13" target="7instS3jXjHVJ4o3VPC2-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7instS3jXjHVJ4o3VPC2-13" value="&lt;div&gt;&lt;b&gt;Numbering of Purchase Request&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;(1-2 Days)&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;After fund verification the Budget Office returns the PR to the Procurement Office, where a PR number is assigned.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;i&gt;(Budget Office, Procurement Office)&lt;/i&gt;&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="40" width="260" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="7instS3jXjHVJ4o3VPC2-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="7instS3jXjHVJ4o3VPC2-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1090.034482758621" y="480.0344827586207" as="sourcePoint" />
+            <mxPoint x="1100" y="280" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1080" y="480" />
+              <mxPoint x="1080" y="265" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7instS3jXjHVJ4o3VPC2-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7instS3jXjHVJ4o3VPC2-15" target="7instS3jXjHVJ4o3VPC2-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1080" y="480" />
+              <mxPoint x="1080" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7instS3jXjHVJ4o3VPC2-15" value="&lt;b&gt;Procurement&lt;/b&gt;&lt;div&gt;&lt;b&gt;Mode Selection&lt;br&gt;(1-5 Days)&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Determine procurement method&lt;/div&gt;&lt;div&gt;&lt;b&gt;(Competitive Bidding, Shopping, Negotiated Procurement, etc.)&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;i&gt;(Bids and Awards Committee&lt;/i&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;i&gt;(BAC))&lt;/i&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="330" width="300" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="7instS3jXjHVJ4o3VPC2-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7instS3jXjHVJ4o3VPC2-17" target="7instS3jXjHVJ4o3VPC2-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7instS3jXjHVJ4o3VPC2-17" value="&lt;b&gt;Competitive&lt;/b&gt;&lt;div&gt;&lt;b&gt;Bidding&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="930" y="235" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7instS3jXjHVJ4o3VPC2-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7instS3jXjHVJ4o3VPC2-19" target="7instS3jXjHVJ4o3VPC2-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7instS3jXjHVJ4o3VPC2-19" value="&lt;b&gt;Negotiated Procurement&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="930" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7instS3jXjHVJ4o3VPC2-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7instS3jXjHVJ4o3VPC2-22" target="7instS3jXjHVJ4o3VPC2-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7instS3jXjHVJ4o3VPC2-22" value="&lt;b&gt;Posting of Invitation to Bid&lt;/b&gt;&lt;div&gt;&lt;b&gt;(7 Days)&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;For Competitive Bidding, publish ITB on PhilGEPS, LGU website, and bulleting boards.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;i&gt;(BAC Secretariat, PhilGEPS)&lt;/i&gt;&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="200" width="180" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="7instS3jXjHVJ4o3VPC2-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7instS3jXjHVJ4o3VPC2-24" target="7instS3jXjHVJ4o3VPC2-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7instS3jXjHVJ4o3VPC2-24" value="&lt;div&gt;&lt;b&gt;Bidding Process&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;(15-30 Days)&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Submission of bids, bid opening, and evaluation by the Bids and Awards Committee (BAC)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;i&gt;(BAC, Prospective Bidders)&lt;/i&gt;&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="410" width="180" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="7instS3jXjHVJ4o3VPC2-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.004;entryY=0.536;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="7instS3jXjHVJ4o3VPC2-26" target="7instS3jXjHVJ4o3VPC2-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="850" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7instS3jXjHVJ4o3VPC2-26" value="&lt;b&gt;Shopping&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="930" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7instS3jXjHVJ4o3VPC2-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7instS3jXjHVJ4o3VPC2-30" target="7instS3jXjHVJ4o3VPC2-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7instS3jXjHVJ4o3VPC2-30" value="&lt;div&gt;&lt;b&gt;Canvassing&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;(3-7 Days)&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;The end-user submits the PR with three canvass sheets to the canvasser. The canvasser processes the quotations and returns them to the end-user.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;i&gt;(End-User, Canvasser)&lt;/i&gt;&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="410" width="220" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="7instS3jXjHVJ4o3VPC2-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7instS3jXjHVJ4o3VPC2-36" target="7instS3jXjHVJ4o3VPC2-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7instS3jXjHVJ4o3VPC2-36" value="&lt;div&gt;&lt;b&gt;Post-Qualification &amp;amp; Award&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;(3-7 Days)&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;BAC conducts post-qualification recommends the Lowest Calculated and Responsive Bid (LCRB)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;i&gt;(BAC, TWG, End-User)&lt;/i&gt;&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="620" width="180" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="7instS3jXjHVJ4o3VPC2-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7instS3jXjHVJ4o3VPC2-38" target="7instS3jXjHVJ4o3VPC2-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7instS3jXjHVJ4o3VPC2-38" value="&lt;div&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Notice of Award (NOA)&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(1-3 Days)&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;HoPE issues NOA to the&amp;nbsp;&lt;/div&gt;&lt;div&gt;winning bidder.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;i&gt;(HoPE)&lt;/i&gt;&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="830" width="180" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="7instS3jXjHVJ4o3VPC2-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7instS3jXjHVJ4o3VPC2-40" target="7instS3jXjHVJ4o3VPC2-42">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="1510" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="330" y="1515" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7instS3jXjHVJ4o3VPC2-40" value="&lt;div&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Contract Signing &amp;amp;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Notice to Proceed&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(3-5 Days)&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Contract is signed, followed by the issuance of Notice to Proceed (NTP)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;i&gt;(HoPE, Supplier)&lt;/i&gt;&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1040" width="180" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="7instS3jXjHVJ4o3VPC2-42" value="&lt;div&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Purchase Order (PO) Issuance&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(1-2 Days)&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;The PO is officially issued to the supplier.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;i&gt;(Procurement Office)&lt;/i&gt;&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="1450" width="280" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="7instS3jXjHVJ4o3VPC2-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7instS3jXjHVJ4o3VPC2-46" target="7instS3jXjHVJ4o3VPC2-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7instS3jXjHVJ4o3VPC2-46" value="&lt;div&gt;&lt;b&gt;Abstract Preparation&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;(1-2 Days)&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Upon receiving the canvassed quotations the end-user attaches the Abstract of Canvass.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;i&gt;(End-User)&lt;/i&gt;&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="620" width="220" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="7instS3jXjHVJ4o3VPC2-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7instS3jXjHVJ4o3VPC2-48" target="7instS3jXjHVJ4o3VPC2-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7instS3jXjHVJ4o3VPC2-48" value="&lt;div&gt;&lt;b&gt;Abstract Preparation&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;(1-2 Days)&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Upon receiving the canvassed quotations the end-user attaches the Abstract of Canvass.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;i&gt;(End-User)&lt;/i&gt;&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="830" width="220" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="7instS3jXjHVJ4o3VPC2-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7instS3jXjHVJ4o3VPC2-50" target="7instS3jXjHVJ4o3VPC2-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7instS3jXjHVJ4o3VPC2-50" value="&lt;div&gt;&lt;b&gt;Purchase Order (PO) Creation&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;After the abstract is completed, the Purchase Order (PO) is prepared and signed by the Municipal Mayor. The end-user also prints other necessary attachments (Inspection &amp;amp; Acceptance Report, Obligation Request, Disbursement Voucher).&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;i&gt;(End-User, Municipal Mayor)&lt;/i&gt;&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="1040" width="280" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="7instS3jXjHVJ4o3VPC2-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7instS3jXjHVJ4o3VPC2-52" target="7instS3jXjHVJ4o3VPC2-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7instS3jXjHVJ4o3VPC2-52" value="&lt;div&gt;&lt;b&gt;PO Numbering &amp;amp; Obligation Request (ObR) Processing&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;The end-user submits the PO to the Procurement Unit for numbering, Afterward the Procurement Unit forwards the PO to the Budget Office for the Obligation Request (ObR).&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;i&gt;(End-User, Procurement Unit, Budget Office)&lt;/i&gt;&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="1250" width="280" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="7instS3jXjHVJ4o3VPC2-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7instS3jXjHVJ4o3VPC2-55" target="7instS3jXjHVJ4o3VPC2-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7instS3jXjHVJ4o3VPC2-55" value="&lt;div&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Delivery of Goods/Services&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(3-7 Days)&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Supplier delivers goods/services as per contract; inspected by end-user.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;i&gt;(Supplier, End-User)&lt;/i&gt;&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="930" y="620" width="280" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="7instS3jXjHVJ4o3VPC2-57" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7instS3jXjHVJ4o3VPC2-42" target="7instS3jXjHVJ4o3VPC2-55">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="870" y="1530" as="sourcePoint" />
+            <mxPoint x="840" y="650" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="840" y="1515" />
+              <mxPoint x="840" y="685" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7instS3jXjHVJ4o3VPC2-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7instS3jXjHVJ4o3VPC2-59" target="7instS3jXjHVJ4o3VPC2-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7instS3jXjHVJ4o3VPC2-59" value="&lt;div&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Inspection and Acceptance&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(1-3 Days)&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Inspection team verifies compliance and issues Inspection &amp;amp; Acceptance Report.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;i&gt;(Inspection Team, End-User)&lt;/i&gt;&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="930" y="780" width="280" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="7instS3jXjHVJ4o3VPC2-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7instS3jXjHVJ4o3VPC2-61" target="7instS3jXjHVJ4o3VPC2-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7instS3jXjHVJ4o3VPC2-61" value="&lt;div&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Obligation Request (ObR) Processing&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(3-5 Days)&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Ensure the obligation request is processed and funds are allocated&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;i&gt;(Budget Office)&lt;/i&gt;&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="930" y="940" width="280" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="7instS3jXjHVJ4o3VPC2-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7instS3jXjHVJ4o3VPC2-63" target="7instS3jXjHVJ4o3VPC2-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7instS3jXjHVJ4o3VPC2-63" value="&lt;div&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Processing of Payment&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(3-7 Days)&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Supplier submits billing statement, approved documents, and supporting papers.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;i&gt;(Accounting, Budget Office)&lt;/i&gt;&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="930" y="1100" width="280" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="7instS3jXjHVJ4o3VPC2-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7instS3jXjHVJ4o3VPC2-65" target="7instS3jXjHVJ4o3VPC2-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7instS3jXjHVJ4o3VPC2-65" value="&lt;div&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Disbursement Voucher (DV) Preparation&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(3-5 Days)&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Accounting prepares the DV, attaches required documents, and processes for payment approval.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;i&gt;(Accounting Office)&lt;/i&gt;&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="930" y="1260" width="280" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="7instS3jXjHVJ4o3VPC2-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7instS3jXjHVJ4o3VPC2-67" target="7instS3jXjHVJ4o3VPC2-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7instS3jXjHVJ4o3VPC2-67" value="&lt;div&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Release of Payment&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(1-3 Days)&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Treasury releases payment via check or electronic transfer upon approval.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;i&gt;(Treasurer&#39;s Office)&lt;/i&gt;&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="930" y="1420" width="280" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="7instS3jXjHVJ4o3VPC2-71" value="End" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1270" y="1455" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
