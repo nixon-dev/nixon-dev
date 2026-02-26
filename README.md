@@ -1,3 +1,13 @@
+<h1 align="center">Hi 👋, I'm Nickson S. Prieto</h1>
+<h3 align="center">A fullstack developer from Philippines</h3>
+
+- 🔭 I’m currently working on [Registrar's Document Status Tracking System](https://github.com/nixon-dev/registrar-project)
+
+- 🌱 I’m currently learning **Laravel with livewire**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/nickson.prieto.74) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nickson.prieto005@gmail.com) 
