@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Nickson S. Prieto</h1>
-<h3 align="center">An aspiring fullstack developer from Philippines</h3>
+<h1 align="center">Nickson S. Prieto</h1>
+<h3 align="center">Fullstack developer from Philippines</h3>
 
 - 🔭 I’m currently working on [Registrar's Document Status Tracking System](https://github.com/nixon-dev/registrar-project)
 
